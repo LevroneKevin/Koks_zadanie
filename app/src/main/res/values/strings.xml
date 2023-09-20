@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Koks Zadanie</string>
+    <string name="podaj_email">Podaj email:</string>
+    <string name="email">Email</string>
+    <string name="haslo">Hasło</string>
+    <string name="potworz_haslo">Powtórz hasło:</string>
+    <string name="powtorz_haslo">Powtórz hasło:</string>
+    <string name="zatwierdz">ZATWIERDŹ</string>
+</resources>
